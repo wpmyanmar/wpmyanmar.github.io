@@ -1,0 +1,31 @@
+.avatar {
+    width: 2.94rem;
+}
+.article-ih {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.article-in-home a {
+    text-decoration: none;
+    font-weight: 600;
+}
+img {
+    max-width: 100%;
+}
+.plaina {
+    text-decoration: none;
+    font-weight: 300;
+}
+.moblogo {
+    height:2.4rem;
+}
+.site-name {
+    font-size: 1.23rem;
+    font-weight: 400;
+    text-align: center;
+}
+.header-divider {
+    height: 3.3rem;
+    display: inline-block;
+}
