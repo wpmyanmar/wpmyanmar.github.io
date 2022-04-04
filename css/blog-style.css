@@ -29,3 +29,11 @@ img {
     height: 3.3rem;
     display: inline-block;
 }
+.content p {
+    padding: 16px;
+}
+.content > figure{
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
